@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy 👋, I'm Shwetha Mercelin<br>A passionate frontend developer from India<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web , Cloud<br>📫 How to reach me shwethamercelin.mercelin@gmail.com<br>
+Heyy 👋, I'm Shwetha Mercelin<br>A passionate frontend developer from India<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web & Cloud<br>📫 How to reach me shwethamercelin.mercelin@gmail.com<br>
 
 
 ## 🌐 Socials:
